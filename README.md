@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akeem92
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning nodeJS
+- 🌱 NodeJS && Yii2 Developper.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
