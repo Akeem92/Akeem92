@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akeem92
 - 👀 I’m passionnate and backend developper.
-- 🌱 NodeJS && Yii2 Developper.
-- 💞️ I’m looking to collaborate on big project of 2024.
+- 🌱 AdonisJs, Laravel && Yii2 Developper.
+- 💞️ I’m work on some project and i'm open for work.
 - 📫 How to get in touch with me.
 
 <!---
