@@ -39,7 +39,7 @@ Whether it’s for SaaS platforms, multi-tenant apps, or custom integrations, I 
 
 I'm open to freelance, part-time or collaborative opportunities with dev teams or entrepreneurs building real solutions. I believe in **code quality, good architecture**, and **getting things done**.
 
-📧 Email: akeem.gnakade@gmail.com  
+📧 Email: joachimgnakade5@gmail.com  
 🌐 LinkedIn: [linkedin.com/in/lanxx-6b54051a0](https://www.linkedin.com/in/lanxx-6b54051a0)  
 📦 Projects & Code: [github.com/Akeem92](https://github.com/Akeem92)
 
