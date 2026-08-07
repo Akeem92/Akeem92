@@ -8,8 +8,8 @@
 
 I'm a passionate backend developer with real-world experience building robust, scalable, and secure systems. I specialize in building APIs, microservices, and background services using modern and battle-tested frameworks like:
 
-- ⚙️ **AdonisJS** (Node.js)
-- 🛠️ **Laravel** / 🧩 **Yii2** / 🧩 **Symfony** (PHP)
+- ⚙️ **PHP**
+- 🛠️ **JS**
 
 Whether it’s for SaaS platforms, multi-tenant apps, or custom integrations, I love crafting elegant backend architectures that are clean, maintainable, and performant.
 
