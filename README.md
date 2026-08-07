@@ -11,26 +11,26 @@ I'm a passionate backend developer with real-world experience building robust, s
 - ⚙️ **PHP**
 - 🛠️ **JS**
 
-Whether it’s for SaaS platforms, multi-tenant apps, or custom integrations, I love crafting elegant backend architectures that are clean, maintainable, and performant.
+Whether it’s for SaaS platforms, multi-tenant apps, or custom integrations, I love crafting elegant backend architectures that are clean, maintainable, and scalable.
 
 ---
 
 ## 💼 What I Can Do for You
 
-✅ Design and build modern APIs (RESTful & event-driven)  
-✅ Set up secure and automated CI/CD workflows  
-✅ Build dynamic multi-tenant platforms with Traefik + Docker  
-✅ Integrate third-party services (e.g. Stripe, Paygate, CinetPay..)  
+✅ Design architecture and build modern APIs  
+✅ Set up secure and automated CI/CD workflows for deploying your app 
+✅ Server infrastructure management Docker + Kubernetes  
+✅ Integrate third-party services API 
 ✅ Optimize legacy codebases and migrate to modern stacks
 
 ---
 
 ## 🌱 Currently Working On
 
-- 🔄 **Building multi tenant saas** with AdonisJs + Docker + Traefik
-- 💸 **Subscription systems** with Stripe  
+- 🔄 **Building community saas plateform** with AdonisJs
+- 💸 **Mutliple payment system** with multiple payment provider  
 - 📦 **Mass data processing tools** using cron-based services  
-- 🌍 A complete onboarding system for multi-tenant SaaS
+- 🌍 **Implement offline on online solution exist** with PHP Symfony
 
 ---
 
