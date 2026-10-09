@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate backend developer with real-world experience building robust, scalable, and secure systems. I specialize in building APIs, microservices, and background services using modern and battle-tested frameworks like:
++6years experience, I'm a passionate backend developer with real-world experience building robust, scalable, and secure systems. I specialize in building APIs, microservices, and background services using modern and battle-tested frameworks like:
 
 - ⚙️ **PHP**
 - 🛠️ **JS**
@@ -39,7 +39,6 @@ Whether it’s for SaaS platforms, multi-tenant apps, or custom integrations, I 
 I'm open to freelance, part-time or collaborative opportunities with dev teams or entrepreneurs building real solutions. I believe in **code quality, good architecture**, and **getting things done**.
 
 📧 Email: joachimgnakade5@gmail.com  
-🌐 LinkedIn: [linkedin.com/in/lanxx-6b54051a0](https://www.linkedin.com/in/lanxx-6b54051a0)  
 📦 Projects & Code: [github.com/Akeem92](https://github.com/Akeem92)
 
 ---
