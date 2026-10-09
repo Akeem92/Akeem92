@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-+6years experience, I'm a passionate backend developer with real-world experience building robust, scalable, and secure systems. I specialize in building APIs, microservices, and background services using modern and battle-tested frameworks like:
+I'm a passionate backend developer with real-world experience building robust, scalable, and secure systems. I specialize in building APIs, microservices, and background services using modern and battle-tested frameworks like:
 
 - ⚙️ **PHP**
 - 🛠️ **JS**
